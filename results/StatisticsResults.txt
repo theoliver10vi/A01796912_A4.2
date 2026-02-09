@@ -1,0 +1,12 @@
+Compute Statistics - Results
+Archivo de entrada: test_files/fileWithData.txt
+Números válidos: 400
+Tokens inválidos: 0
+
+Media: 242.32
+Mediana: 239.5
+Moda: [393.0, 170.0]
+Varianza (poblacional): 21099.917599999997
+Desviación estándar (poblacional): 145.25810683056557
+
+Tiempo de ejecución (s): 0.0004799365997314453
